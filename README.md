@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Vedikajawaria/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 | [1903-largest-odd-number-in-string](https://github.com/Vedikajawaria/leetcode-solutions/tree/master/1903-largest-odd-number-in-string) |
 ## Greedy
 |  |
@@ -18,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/Vedikajawaria/leetcode-solutions/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1321-restaurant-growth](https://github.com/Vedikajawaria/leetcode-solutions/tree/master/1321-restaurant-growth) |
+## Array
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vedikajawaria/leetcode-solutions/tree/master/0014-longest-common-prefix) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Vedikajawaria/leetcode-solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
