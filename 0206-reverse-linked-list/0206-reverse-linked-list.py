@@ -13,4 +13,5 @@ class Solution(object):
             prev=current
             current=next_node
         return prev
+
         
